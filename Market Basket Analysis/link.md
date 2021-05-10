@@ -1,0 +1,3 @@
+# Link to Power BI dashboard
+
+https://app.powerbi.com/view?r=eyJrIjoiMjk0N2Q0YjEtYmM3Ni00NGFkLTgyMzctM2JiNDQwYmRjZGFjIiwidCI6ImU0YmQ2OWZmLWU2ZjctNGMyZS1iMjQ3LTQxYjU0YmEyNDkwZSIsImMiOjh9&pageName=ReportSection
